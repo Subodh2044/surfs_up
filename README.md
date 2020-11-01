@@ -18,6 +18,9 @@ The overview of this statistical analysis is gather information to examine if th
 
 ![image](https://user-images.githubusercontent.com/67131400/97810738-a7df2780-1c3b-11eb-8946-c1061f7cbe4c.png)
 
+![image](https://user-images.githubusercontent.com/67131400/97810768-e83ea580-1c3b-11eb-9409-7df2add0d218.png)
+
+
 **Summary**
 
 There is no significant fluction in the temperature in mid and end of the year. These two months are the months when people are most likely to travel because of summer and holidays in December. The temperatures are normally distributed. 
