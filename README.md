@@ -16,6 +16,10 @@ The overview of this statistical analysis is gather information to examine if th
 
 3. Average temperature around low to mid 70s for both months.
 
+![image](https://user-images.githubusercontent.com/67131400/97810738-a7df2780-1c3b-11eb-8946-c1061f7cbe4c.png)
+
+![image](https://user-images.githubusercontent.com/67131400/97810768-e83ea580-1c3b-11eb-9409-7df2add0d218.png)
+
 
 **Summary**
 
